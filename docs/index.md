@@ -9,8 +9,9 @@ permalink: /
 
 Bienvenue dans la documentation du projet Machine that draws. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre projet sur Onshape]
+https://cad.onshape.com/documents/76f4e5efb523ff0e39e38d24/w/984194a700bcc359ffe408cc/e/361723922b57f55f43e48692
+[Notre repo GitHub]
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY" frameborder="0"></iframe>
 
