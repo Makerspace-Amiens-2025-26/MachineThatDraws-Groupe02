@@ -11,12 +11,12 @@ Bienvenue dans la documentation du projet Machine that draws. Ce site a pour but
 
 [Notre projet sur Onshape]
 https://cad.onshape.com/documents/76f4e5efb523ff0e39e38d24/w/984194a700bcc359ffe408cc/e/361723922b57f55f43e48692
+
 [Notre repo GitHub]
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY" frameborder="0"></iframe>
+[Visualisation de notre projet]
+https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
 
 
 ## À propos du Projet
