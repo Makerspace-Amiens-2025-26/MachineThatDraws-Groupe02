@@ -11,9 +11,21 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- Plaque en bois 43x43cm, trouée (trous de 3mm, espacés par leur centre de 20mm)
+- Imprimante 3D
+- Vis et boulon de 3mm x30 (environ)
+
+## Pièces à imprimer
+
+Voici la liste de toute les pièces à imprimer pour ce projet:
+- Coin gauche :
+- Coin droit :
+- Support des moteurs x2 :
+- Support pour les barres du milieu x2 :
+- Support du stylo :
+- Support de la carte électronique :
+- Support du bouton d'arrêt d'urgence :
+
 
 ## Procédure de Préparation
 
