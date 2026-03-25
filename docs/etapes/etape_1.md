@@ -19,7 +19,8 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 Voici la liste de toute les pièces à imprimer pour ce projet:
 - Coin gauche :
-  https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=4a692cce91d980d6e6ab9b11&elementType=PARTSTUDIO
+
+https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=4a692cce91d980d6e6ab9b11&elementType=PARTSTUDIO
   
 - Coin droit :
   
