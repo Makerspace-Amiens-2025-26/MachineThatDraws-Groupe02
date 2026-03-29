@@ -25,10 +25,20 @@ https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096
 - Coin droit :
   
 - Support des moteurs x2 :
+
+
 - Support pour les barres du milieu x2 :
+
+
 - Support du stylo :
+
+
 - Support de la carte électronique :
+
+
 - Support du bouton d'arrêt d'urgence :
+
+
 
 
 ## Procédure de Préparation
