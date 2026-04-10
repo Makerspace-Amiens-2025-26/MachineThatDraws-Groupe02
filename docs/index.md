@@ -14,9 +14,8 @@ Notre projet sur Onshape
 https://cad.onshape.com/documents/76f4e5efb523ff0e39e38d24/w/984194a700bcc359ffe408cc/e/361723922b57f55f43e48692
 
 
-Visualisation de notre projet
-
-https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY
+## 🔍 Visualisation interactive 3D
+<iframe src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY" width="100%" height="500px" frameborder="0"></iframe>
 
 
 
