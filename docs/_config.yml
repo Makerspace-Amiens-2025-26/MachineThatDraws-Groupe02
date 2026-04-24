@@ -7,7 +7,7 @@ description: Documentation du projet
 Ce projet, réalisé dans le cadre du semestre 4 à UniLaSalle Amiens, consiste à concevoir et réaliser une machine automatisée capable de reproduire des tracés précis. 
 
 Nos principaux objectifs sont :
-* **Conception Mécanique :** Modélisation d'une structure robuste et précise sous Onshape.
+Conception Mécanique :** Modélisation d'une structure robuste et précise sous Onshape.
 * **Électronique :** Création d'un PCB sur mesure avec KiCad pour piloter les moteurs pas-à-pas.
 * **Programmation :** Développement d'un algorithme en C pour transformer des coordonnées en mouvements fluides.
 * **Innovation :** Proposer une solution technique fiable répondant à un cahier des charges d'ingénierie.
