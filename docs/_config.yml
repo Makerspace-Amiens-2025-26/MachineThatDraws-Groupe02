@@ -19,3 +19,14 @@ just_the_docs:
   navigation_depth: 5
   search_enabled: true
   search_indexing: true
+
+  nav:
+  - title: Accueil
+    url: /index.md
+  - title: Objectifs
+    url: /objectifs.md
+  - title: Conception
+    url: /conception.md
+  - title: Études
+    url: /etudes.md
+  
