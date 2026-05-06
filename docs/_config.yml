@@ -1,32 +1,28 @@
 title: Projet MachineThatDraws - Groupe 02
 description: Documentation du projet
 
-# Machine qui dessine - Groupe 02
-
-## Introduction et Objectifs du Projet S4
-Ce projet, réalisé dans le cadre du semestre 4 à UniLaSalle Amiens, consiste à concevoir et réaliser une machine automatisée capable de reproduire des tracés précis. 
-
-Nos principaux objectifs sont :
-Conception Mécanique :** Modélisation d'une structure robuste et précise sous Onshape.
-* **Électronique :** Création d'un PCB sur mesure avec KiCad pour piloter les moteurs pas-à-pas.
-* **Programmation :** Développement d'un algorithme en C pour transformer des coordonnées en mouvements fluides.
-* **Innovation :** Proposer une solution technique fiable répondant à un cahier des charges d'ingénierie.
 theme: just-the-docs
-url: https://github.com/Makerspace-Amiens
 
-# Paramètres optionnels de "Just the Docs"
+url: https://makerspace-amiens.github.io/MachineThatDraws-Groupe02
+
 just_the_docs:
   navigation_depth: 5
   search_enabled: true
   search_indexing: true
-
-  nav:
+nav:
   - title: Accueil
-    url: /index.md
+    url: /
   - title: Objectifs
-    url: /objectifs.md
+    url: /objectifs
   - title: Conception
-    url: /conception.md
+    url: /conception
   - title: Études
-    url: /etudes.md
+    url: /etudes
+  - title: Résultats
+    url: /resultats
+  - title: Équipe
+    url: /equipe
+url: https://github.com/Makerspace-Amiens
+
+
   
