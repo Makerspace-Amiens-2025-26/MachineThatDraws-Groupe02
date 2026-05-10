@@ -44,7 +44,6 @@ L’ensemble du projet, incluant les fichiers et le code source, est disponible 
 <img width="708" height="1000" alt="image" src="https://github.com/user-attachments/assets/cc40291e-47d6-48da-a489-0743cba5c7e6" />
 
 
-![Poster projet](images/poster.jpg)
 
 ## Vidéo
 
