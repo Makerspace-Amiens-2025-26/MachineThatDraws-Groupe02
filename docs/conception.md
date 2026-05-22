@@ -61,8 +61,8 @@ Les tests portaient principalement sur :
 
 Cette phase de validation a permis d’effectuer plusieurs ajustements mécaniques, notamment :
 - le réglage de la tension des courroies,
-	•	l’amélioration de l’alignement des rails,
-	•	le renforcement de certains points de fixation.
+- l’amélioration de l’alignement des rails,
+- le renforcement de certains points de fixation.
 
 Ces optimisations ont permis d’améliorer la précision et la stabilité globale de la machine, rendant le prototype plus performant.
 
