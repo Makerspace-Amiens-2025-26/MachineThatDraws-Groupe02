@@ -18,4 +18,7 @@ Les choix techniques ont été faits pour garantir un bon compromis entre simpli
 
 -Outil d’écriture monté sur le chariot pour tracer sur le papier.  
 
-Ces choix permettent d’obtenir une machine fiable et suffisamment précise pour les objectifs du projet. 
+Grâce à ces différents choix techniques, la machine est capable d’effectuer des déplacements précis 
+et stables tout en restant relativement simple à concevoir et à assembler. Elle répond ainsi aux 
+objectifs du projet en offrant une solution fiable, fonctionnelle et adaptée au dessin automatisé sur 
+papier.
