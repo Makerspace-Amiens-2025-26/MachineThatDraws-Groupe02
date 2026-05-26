@@ -10,13 +10,13 @@ Les choix techniques ont été faits pour garantir un bon compromis entre simpli
 
 -*Moteurs pas à pas* : ces moteurs ont été choisis pour assurer un contrôle précis des déplacements sur les axes X et Y. Contrairement à des moteurs classiques, ils permettent d’effectuer des mouvements très précis par petits pas, ce qui est essentiel pour réaliser des tracés propres et réguliers sur la feuille.
 
--Courroies crantées pour la transmission du mouvement 
+-*Courroies crantées* pour la transmission du mouvement 
 
--Rails de guidage pour assurer la stabilité des axes 
+-*Rails de guidage* pour assurer la stabilité des axes 
 
--Carte électronique de contrôle pour piloter les moteurs 
+-*Carte électronique* de contrôle pour piloter les moteurs 
 
--Outil d’écriture monté sur le chariot pour tracer sur le papier.  
+-*Outil d’écriture* monté sur le chariot pour tracer sur le papier.  
 
 Grâce à ces différents choix techniques, la machine est capable d’effectuer des déplacements précis 
 et stables tout en restant relativement simple à concevoir et à assembler. Elle répond ainsi aux 
