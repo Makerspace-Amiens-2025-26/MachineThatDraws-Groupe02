@@ -8,7 +8,7 @@ title: Études et choix techniques
 
 Les choix techniques ont été faits pour garantir un bon compromis entre simplicité, précision et coût : 
 
--Moteurs pas à pas pour un contrôle précis des déplacements 
+-Moteurs pas à pas : ces moteurs ont été choisis pour assurer un contrôle précis des déplacements sur les axes X et Y. Contrairement à des moteurs classiques, ils permettent d’effectuer des mouvements très précis par petits pas, ce qui est essentiel pour réaliser des tracés propres et réguliers sur la feuille.
 
 -Courroies crantées pour la transmission du mouvement 
 
