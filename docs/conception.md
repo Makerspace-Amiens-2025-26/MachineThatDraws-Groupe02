@@ -33,6 +33,8 @@ Les moteurs actionnent les courroies qui déplacent le chariot le long des rails
 Ce mécanisme permet d’obtenir un mouvement fluide et contrôlé, essentiel pour garantir la précision de la machine.
 
 Figure 2 : Système de rails et courroies utilisé pour le déplacement.
+<img width="2659" height="3317" alt="image" src="https://github.com/user-attachments/assets/cfd1b192-9493-4426-a1f1-6a3d167fb577" />
+
 
 
 ## Assemblage du prototype
@@ -48,6 +50,7 @@ Cette étape consistait à :
 Le prototype permet de visualiser le fonctionnement réel de la machine et de vérifier que tous les éléments s’intègrent correctement.
 
 Figure 3 : Prototype de la machine assemblé.
+<img width="3212" height="3389" alt="image" src="https://github.com/user-attachments/assets/7afd825c-1bfd-437d-8289-3fe4ea0c5508" />
 
 
 ## Tests et ajustements
