@@ -6,7 +6,7 @@ title: Conception et prototypage
 
 # Conception et prototypage
 
-1. Conception de la structure
+## Conception de la structure
 
 La conception de la machine repose sur une structure en bois rigide servant de support principal pour l’ensemble des composants mécaniques et électroniques.
 Ce choix de matériau permet d’obtenir une structure facile à usiner, économique et suffisamment solide pour maintenir les différents éléments du système.
@@ -16,10 +16,11 @@ La base de la machine a été conçue de manière à :
 - faciliter la fixation des rails de guidage,
 - permettre un alignement précis des axes de déplacement.
 
-Figure 1 : Schéma de la structure principale de la machine.
+<img width="767" height="511" alt="image" src="https://github.com/user-attachments/assets/045f6913-70d5-45d6-aece-061c5add509d" />
 
 
-2. Mise en place des axes de déplacement
+
+## Mise en place des axes de déplacement
 
 La machine fonctionne selon deux axes de déplacement : l’axe X et l’axe Y, permettant le mouvement du chariot dans un plan horizontal.
 
@@ -34,7 +35,7 @@ Ce mécanisme permet d’obtenir un mouvement fluide et contrôlé, essentiel po
 Figure 2 : Système de rails et courroies utilisé pour le déplacement.
 
 
-3. Assemblage du prototype
+## Assemblage du prototype
 
 Une fois les différents composants fabriqués et préparés, un prototype fonctionnel de la machine a été assemblé.
 
@@ -49,7 +50,7 @@ Le prototype permet de visualiser le fonctionnement réel de la machine et de v�
 Figure 3 : Prototype de la machine assemblé.
 
 
-4. Tests et ajustements
+## Tests et ajustements
 
 Après l’assemblage, plusieurs tests expérimentaux ont été réalisés afin d’évaluer les performances du système.
 
