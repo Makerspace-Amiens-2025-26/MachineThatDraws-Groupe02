@@ -1,4 +1,6 @@
-# OBJECTIF DE LA CARTE
+# CARTE ELECTRONIQUE PCB
+
+## OBJECTIF DE LA CARTE
 
 La carte PCB permet de centraliser les différents éléments électroniques nécessaires au fonctionnement de notre machine comme :
 
@@ -13,7 +15,7 @@ La carte PCB permet de centraliser les différents éléments électroniques né
 Cette carte permet donc d'améliorer la fiabilité et l'intégration du système.
 
 
-# COMPOSANTS PRINCIPAUX
+## COMPOSANTS PRINCIPAUX
 
 La carte comporte plusieurs composants :
 
