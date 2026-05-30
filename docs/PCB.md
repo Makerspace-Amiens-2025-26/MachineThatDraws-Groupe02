@@ -1,38 +1,37 @@
-*OBJECTIF DE LA CARTE*
+# OBJECTIF DE LA CARTE
 
+La carte PCB permet de centraliser les différents éléments électroniques nécessaires au fonctionnement de notre machine comme :
 
-La carte PCB permet de centraliser les différents éléments électroniques nécessaires au fonctionnement de notre machine comme:
+- Contrôler les moteurs pas-à-pas
 
+- Connecter les capteurs de fin de course
 
-contrôler les moteurs pas-à-pas
+- Gérer l'interface utilisateur
 
-connecter les capteurs de fin de course
-
-gérer l'interface utilisateur
-
-simplifier le câblage de la machine
+- Simplifier le câblage de la machine
 
 Cette carte permet donc d'améliorer la fiabilité et l'intégration du système.
 
 
-
-*COMPOSANT PRINCIPAUX*
-
+# COMPOSANTS PRINCIPAUX
 
 La carte comporte plusieurs composants :
 
-ESP32 :  qui est le microcontrôleur principal de notre machine 
 
-Connecteurs moteurs et capteurs
+-ESP32 :  qui est le microcontrôleur principal de notre machine 
 
-Écran OLED : qui affiche des informations
+-Connecteurs moteurs et capteurs
 
-Drivers A4988 : qui pilote des moteurs pas-à-pas
+-Écran OLED : qui affiche des informations
 
-Lecteur de carte SD : qui stock des fichiers
+-Drivers A4988 : qui pilote des moteurs pas-à-pas
+
+-Lecteur de carte SD : qui stock des fichiers
 
 Ces composants permettent de contrôler l'ensemble de la machine.
 
-CARTE PCB
+
+
+# SCHEMA DE LA CARTE PCB 
 
 <img width="1092" height="526" alt="image" src="https://github.com/user-attachments/assets/4f1bf017-d40c-434c-84be-9cfa52ee044a" />
