@@ -41,7 +41,8 @@ L’ensemble du projet, incluant les fichiers et le code source, est disponible 
 
 ## Poster
 
-<img width="708" height="1000" alt="image" src="https://github.com/user-attachments/assets/cc40291e-47d6-48da-a489-0743cba5c7e6" />
+<img width="528" height="745" alt="image" src="https://github.com/user-attachments/assets/9e0dc9ed-1466-4d86-b5e9-4c4484cfb7e8" />
+
 
 
 
