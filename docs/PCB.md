@@ -1,4 +1,4 @@
-# CARTE ELECTRONIQUE PCB
+# Carte électronique PCB
 
 ## OBJECTIF DE LA CARTE
 
