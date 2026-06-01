@@ -36,5 +36,5 @@ Ces composants permettent de contrôler l'ensemble de la machine.
 
 # SCHEMA DE LA CARTE PCB 
 
-<img width="1092" height="526" alt="image" src="https://github.com/user-attachments/assets/4f1bf017-d40c-434c-84be-9cfa52ee044a" />
+<img width="923" height="636" alt="Capture d’écran 2026-06-01 à 09 49 21" src="https://github.com/user-attachments/assets/4eabb074-8286-4d12-8886-0b6cde055f83" />
 <img width="621" height="405" alt="Capture d’écran 2026-06-01 à 09 48 22" src="https://github.com/user-attachments/assets/f707233c-0432-4960-a831-4ecd89b799d9" />
