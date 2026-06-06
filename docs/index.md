@@ -23,7 +23,7 @@ Vous trouverez ci-dessous les principales ressources liées au projet, notamment
 <iframe
   height="600"
   width="100%"
-  src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY
+  src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY"
   frameborder="0">
 </iframe>
 
