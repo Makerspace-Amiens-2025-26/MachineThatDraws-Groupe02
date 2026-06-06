@@ -21,10 +21,10 @@ Vous trouverez ci-dessous les principales ressources liées au projet, notamment
 > Le modèle 3D et la vidéo de présentation seront mis à jour au fur et à mesure de l’avancement du projet.
 
 <iframe
-height="600"
-width="100%"
-src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY
-frameborder="0">
+  height="600"
+  width="100%"
+  src="https://modelembedder.net/embed?did=76f4e5efb523ff0e39e38d24&wvm=v&wvmid=d0fa096d3b790f619733d7cd&eid=361723922b57f55f43e48692&elementType=ASSEMBLY
+  frameborder="0">
 </iframe>
 
 
