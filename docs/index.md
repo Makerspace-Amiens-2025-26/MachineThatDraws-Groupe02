@@ -50,6 +50,6 @@ L’ensemble du projet, incluant les fichiers et le code source, est disponible 
 
 
 
-<video src="images/MACHINE THAT DRAWS video.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/video Machine That Draws.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
